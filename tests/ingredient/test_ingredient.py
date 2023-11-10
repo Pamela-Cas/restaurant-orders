@@ -1,7 +1,7 @@
 from src.models.ingredient import (
     Ingredient,
     Restriction,
-    )
+)
 
 
 def test_ingredient():
